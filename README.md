@@ -2,7 +2,4 @@
 
 ### Zyfra
 ### Instacart
-### Oilygiant
 ### Beta Bank
-### Ice
-### Megaline
